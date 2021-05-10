@@ -1,0 +1,49 @@
+/* set width for form labels */
+.label {
+  width: 200px;
+}
+
+/* set heading in center, giving spacing for all side */
+.heading {
+  text-align: center;
+  padding: 10px;
+}
+
+/* set input border color, border size and giving radius to corner */
+.input {
+  border: 1px solid #c0c0c0;
+  border-radius: 5px;
+}
+
+/* set address input width and height */
+.address {
+  width: 400px;
+  height: 100px;
+}
+
+/* set width for radio label */
+.radio {
+  width: 100px;
+}
+
+/* set vertical align for adress and choice of food */
+.choice {
+  vertical-align: middle;
+}
+
+/* set table border color, border size, giving width, text align to center */
+.borderl {
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+}
+
+/* set margin to left for button to move it center */
+.button {
+  margin-left: 100px;
+}
+
+/*set color to red for alert user  */
+.alert {
+  color: red;
+}
